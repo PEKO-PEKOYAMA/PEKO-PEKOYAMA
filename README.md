@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://static.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest?cb=20170907184747)
 
 <!--
 **PEKO-PEKOYAMA/PEKO-PEKOYAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
